@@ -1,0 +1,11 @@
+{
+  "name": "broken-web-extention-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@4.2.1",
+  "dependencies": {
+    "firebase": "^10.11.1",
+    "typescript": "^5.4.5"
+  }
+}
